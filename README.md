@@ -1,2 +1,7 @@
 # Drone Simulator
-This repo contains my blend files and rendered images as well as videos
+In collaboration with the Aeronautical Department of MIT, we’ve created an engaging and immersive experience inspired by the
+DJI Phantom 4 for accurate design and assembly details. 
+Players can assemble the drone using a non-linear system, and a training course to train novice people enhancing the interactive
+ experience. 
+
+Modeled modular drone components in Blender including propellers, camera mount, body frame, and remote controller.
